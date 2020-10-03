@@ -7,3 +7,4 @@ javaScript Web Projects by ZTM
 4. joke-teller: https://kanghadong.github.io/js_project_20/joke-teller
 5. light & dark mode: https://kanghadong.github.io/js_project_20/light-dark-mode
 6. animated-template: https://kanghadong.github.io/js_project_20/animated-template
+7. animated-navigation: https://kanghadong.github.io/js_project_20/animated-navigation
