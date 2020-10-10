@@ -8,3 +8,4 @@ javaScript Web Projects by ZTM
 5. light & dark mode: https://kanghadong.github.io/js_project_20/light-dark-mode
 6. animated-template: https://kanghadong.github.io/js_project_20/animated-template
 7. animated-navigation: https://kanghadong.github.io/js_project_20/animated-navigation
+8. music-player: https://kanghadong.github.io/js_project_20/music-player
